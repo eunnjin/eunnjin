@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-<a href="https://instagram.com/alpox.dev">
+<a href="https://instagram.com/bagn._.jin">
     <img 
-        src="http://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=Instagram&logoColor=white&link=https://instagram.com/alpox.dev/"
+        src="http://img.shields.io/badge/-bagn._.jin-E4405F?style=flat&logo=Instagram&logoColor=white&link=https://instagram.com/alpox.dev/"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
 

@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<a href="https://www.instagram.com/bagn._.jin/" target="_blank"><img src="https://img.shields.io/badge/babn._.jin-#E4405F?style=flat&logo=Instagram&logoColor=#000"/></a>
+
 <!--
 **eunnjin/eunnjin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

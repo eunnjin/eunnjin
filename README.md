@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eunnjin&show_icons=true&theme=radical)
+
+
 <a href="https://instagram.com/bagn._.jin">
     <img 
         src="http://img.shields.io/badge/-bagn._.jin-E4405F?style=flat&logo=Instagram&logoColor=white&link=https://instagram.com/alpox.dev/"

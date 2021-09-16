@@ -1,6 +1,10 @@
 ### Hi there 👋
 
-<a href="https://www.instagram.com/bagn._.jin/" target="_blank"><img src="https://img.shields.io/badge/babn._.jin-#E4405F?style=flat&logo=Instagram&logoColor=#000"/></a>
+<a href="https://instagram.com/alpox.dev">
+    <img 
+        src="http://img.shields.io/badge/-Instagram-#E4405F?style=flat&logo=Instagram&logoColor=#000&link=https://instagram.com/alpox.dev/"
+        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+</a>
 
 <!--
 **eunnjin/eunnjin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

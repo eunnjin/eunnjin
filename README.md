@@ -1,13 +1,16 @@
 ### 👋 Hi there 👋
 
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eunnjin&show_icons=true&theme=buefy)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eunnjin&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-
+<div align="center">
 <a href="https://instagram.com/bagn._.jin">
     <img 
-        src="http://img.shields.io/badge/-bagn._.jin-FF6384?style=flat&logo=Instagram&logoColor=white&link=https://instagram.com/alpox.dev/"
+        src="http://img.shields.io/badge/-bagn._.jin-FF6384?style=flat-square&logo=Instagram&logoColor=white&link=https://instagram.com/alpox.dev/"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
+</div>
 
 <!--
 **eunnjin/eunnjin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -1,3 +1,5 @@
+![header](https://capsule-render.vercel.app/api?type=wave&&color=ffdbe6&height=300&section=header&text=EunJin's&fontSize=90)
+
 ### 👋 Hi there 👋
 
 

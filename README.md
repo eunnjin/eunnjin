@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&&color=ffdbe6&height=300&section=header&text=EUNJIN's&fontSize=90)
 
 ### 👋 Hi there 👋
-
+<br>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eunnjin&show_icons=true&theme=buefy)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eunnjin&layout=compact)](https://github.com/anuraghazra/github-readme-stats)

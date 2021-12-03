@@ -27,7 +27,7 @@
 
 <br>
 
-<div align="center">
+<!-- <div align="center">
    🧸 Me 🧸 <br><br>
    
    :eyes:
@@ -37,7 +37,7 @@
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
   :eyes:
-</div>
+</div> -->
 
 <!--
 **eunnjin/eunnjin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
